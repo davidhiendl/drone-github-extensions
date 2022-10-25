@@ -1,0 +1,16 @@
+apiVersion: v1
+description: Drone Github Extensions Deployment
+name: dgse
+version: 0.0.1
+appVersion: 0.0.1
+keywords:
+- drone
+- secret
+- docker registry
+home: https://github.com/davidhiendl/drone-github-extensions
+# icon: https://....
+sources:
+- https://github.com/davidhiendl/drone-github-extensions
+maintainers:
+- name: David Hiendl
+  email: david.hiendl@dhswt.de
